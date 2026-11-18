@@ -12,7 +12,7 @@ Scarica l'ultima versione da **[Releases](../../releases/latest)** → `Orbit_x.
 
 ## Funzioni
 
-- 🎵 **Musica** da Spotify o dal browser, con copertina, controlli e disco animato
+- 🎵 **Musica** da Spotify o dal browser, con copertina, disco animato, **testi sincronizzati** che scorrono nell'isola e barra di avanzamento trascinabile
 - 🔔 **Notifiche di Windows** nell'isola, con cronologia locale opzionale
 - ⏱️ **Timer e cronometro** con avviso alla scadenza
 - 🔊 **Volume, luminosità, batteria e Bluetooth** con indicatori nell'isola
@@ -22,7 +22,7 @@ Scarica l'ultima versione da **[Releases](../../releases/latest)** → `Orbit_x.
 
 ## Privacy
 
-Tutti i dati restano sul tuo PC. Orbit non ha account, non invia telemetria e non legge password o cookie. L'unica richiesta di rete automatica è il controllo degli aggiornamenti su questa pagina.
+Tutti i dati restano sul tuo PC. Orbit non ha account, non invia telemetria e non legge password o cookie. Le uniche richieste di rete sono il controllo degli aggiornamenti su questa pagina e, se i testi sincronizzati sono attivi, la ricerca del testo su [lrclib.net](https://lrclib.net) con titolo, artista e durata del brano (disattivabile).
 
 ---
 
