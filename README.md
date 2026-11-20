@@ -12,7 +12,7 @@ Scarica l'ultima versione da **[Releases](../../releases/latest)** → `Orbit_x.
 
 ## Funzioni
 
-- 🎵 **Musica** da Spotify o dal browser, con copertina, disco animato, **testi sincronizzati** che scorrono nell'isola e barra di avanzamento trascinabile
+- 🎵 **Musica** da Spotify o dal browser, con copertina, disco animato, **testi sincronizzati** che scorrono nell'isola, barra di avanzamento trascinabile e volume della musica separato da quello del PC
 - 🔔 **Notifiche di Windows** nell'isola, con cronologia locale opzionale
 - ⏱️ **Timer e cronometro** con avviso alla scadenza
 - 🔊 **Volume, luminosità, batteria e Bluetooth** con indicatori nell'isola
