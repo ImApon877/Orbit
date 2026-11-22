@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/banner.webp" alt="Orbit" width="340">
+<img src=".github/assets/logo.png" alt="Orbit" width="180">
 
 # Orbit
 
@@ -85,6 +85,10 @@ Apri Orbit da qualsiasi app con una scorciatoia.
 </table>
 
 ## 🚀 Installazione
+
+<div align="center">
+<img src=".github/assets/installer.webp" alt="Installer di Orbit" width="640">
+</div>
 
 1. Scarica **`Orbit-Setup-x.y.z.exe`** dalla [pagina delle release](../../releases/latest).
 2. Aprilo e clicca **Installa**: in pochi secondi Orbit è pronto.
