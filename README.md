@@ -87,7 +87,7 @@ Apri Orbit da qualsiasi app con una scorciatoia.
 ## 🚀 Installazione
 
 <div align="center">
-<img src=".github/assets/installer.webp" alt="Installer di Orbit" width="640">
+<img src=".github/assets/orbit-installer.webp" alt="Installer di Orbit" width="640">
 </div>
 
 1. Scarica **`Orbit-Setup-x.y.z.exe`** dalla [pagina delle release](../../releases/latest).
