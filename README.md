@@ -6,7 +6,7 @@
 
 ### La Dynamic Island per Windows
 
-Una pillola elegante in cima allo schermo che mostra **musica, notifiche, timer, volume, luminosità, batteria e Bluetooth**,<br>
+Una pillola elegante in cima allo schermo, con due occhi che ti seguono, che mostra **musica, notifiche, timer, volume, luminosità, batteria e Bluetooth**,<br>
 e si espande quando ci passi sopra con il mouse.
 
 [![Ultima versione](https://img.shields.io/github/v/release/ImApon877/orbit?style=for-the-badge&label=versione&color=7b5cff)](../../releases/latest)
@@ -29,8 +29,22 @@ e si espande quando ci passi sopra con il mouse.
 <tr>
 <td width="50%" valign="top">
 
+### 👀 Un'isola viva
+Due occhi che si guardano intorno e leggono le notifiche con te. L'isola nasce dal bordo dello schermo come un notch e puoi **trascinarla di lato** dove ti dà meno fastidio.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎧 Discord
+Sul tuo profilo Discord compare **"Sta ascoltando"** con la canzone e la sua copertina, da Spotify o dal browser. Si spegne con un interruttore.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎵 Musica
-Da Spotify o dal browser, con copertina, disco animato, **testi sincronizzati** che scorrono nell'isola, barra trascinabile e volume della musica separato da quello del PC.
+Da Spotify o dal browser, con copertina, disco animato, **testi sincronizzati** che scorrono nell'isola, barra trascinabile e un cursore verticale per il volume della musica, separato da quello del PC.
 
 </td>
 <td width="50%" valign="top">
@@ -58,7 +72,7 @@ Conto alla rovescia con un tocco e avviso alla scadenza, anche a finestra chiusa
 <td valign="top">
 
 ### 🔊 Sistema
-Volume, luminosità, batteria e Bluetooth con indicatori animati nell'isola; CPU, memoria, rete e dischi in tempo reale.
+Volume, luminosità, batteria e Bluetooth con indicatori animati nell'isola; CPU, memoria, batteria e volume a colpo d'occhio quando la apri, e una dashboard con rete e dischi in tempo reale.
 
 </td>
 <td valign="top">
@@ -87,23 +101,28 @@ Apri Orbit da qualsiasi app con una scorciatoia.
 ## 🚀 Installazione
 
 <div align="center">
-<img src=".github/assets/orbit-installer.webp" alt="Installer di Orbit" width="640">
+<img src=".github/assets/orbit-setup.png" alt="Installer di Orbit" width="640">
 </div>
 
 1. Scarica **`Orbit-Setup-x.y.z.exe`** dalla [pagina delle release](../../releases/latest).
-2. Aprilo e clicca **Installa**: in pochi secondi Orbit è pronto.
+2. Aprilo, clicca **Inizia** e scegli cartella, collegamento sul desktop e avvio con Windows: in pochi secondi Orbit è pronto.
 3. Se Windows mostra *"app non riconosciuta"*, clicca **Ulteriori informazioni → Esegui comunque**.
 
 Gli aggiornamenti arrivano da soli: Orbit controlla una volta al giorno, ogni aggiornamento è **firmato** e ti viene sempre chiesta conferma prima di installarlo.
 
 ## 🪶 Leggera
 
-Pensata per restare aperta tutto il giorno: a riposo usa quasi zero CPU, le animazioni decorative della musica si fermano da sole dopo pochi secondi e il menu libera la memoria quando lo chiudi.
+Pensata per restare aperta tutto il giorno: a riposo usa circa lo 0,5% della CPU, le animazioni decorative si fermano da sole dopo pochi secondi e il menu libera la memoria quando lo chiudi.
 
 ## 🔒 Privacy
 
 Tutti i dati restano sul tuo PC. Orbit **non ha account, non invia telemetria** e non legge password o cookie.
-Le uniche richieste di rete sono il controllo degli aggiornamenti su questa pagina e, se i testi sincronizzati sono attivi, la ricerca del testo su [lrclib.net](https://lrclib.net) con titolo, artista e durata del brano (disattivabile).
+Le uniche richieste di rete sono:
+- il controllo degli aggiornamenti su questa pagina;
+- se i testi sincronizzati sono attivi, la ricerca del testo su [lrclib.net](https://lrclib.net) con titolo, artista e durata del brano;
+- se "Sta ascoltando" su Discord è attivo, la ricerca della copertina su [Deezer](https://www.deezer.com) con titolo e artista. Il brano arriva a Discord tramite l'app Discord sul tuo PC.
+
+Ognuna si può disattivare.
 
 <details>
 <summary><b>🛡️ VirusTotal segnala 1 motore su ~70: è normale?</b></summary>
